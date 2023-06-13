@@ -73,3 +73,5 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 {% endhint %}
 
 This is paragraph 1
+
+THis is paragraph 2
