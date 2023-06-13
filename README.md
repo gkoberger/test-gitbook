@@ -1,3 +1,7 @@
+---
+description: asdfasdfasdfasdfasdfasdfasdfasdfasdf
+---
+
 # What is MyProduct?
 
 {% hint style="info" %}
