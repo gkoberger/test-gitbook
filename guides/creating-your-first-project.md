@@ -13,3 +13,5 @@ Test 123!
 ## Creating a project
 
 Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
+
+<table><thead><tr><th width="347.015625">asdf</th><th></th><th></th></tr></thead><tbody><tr><td>aasdf</td><td></td><td></td></tr><tr><td>asdf</td><td></td><td></td></tr><tr><td>asdf</td><td></td><td></td></tr></tbody></table>
