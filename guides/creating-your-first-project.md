@@ -8,7 +8,7 @@
 
 Projects are <mark style="color:$primary;">containers</mark> for task lists. Think of _them_ as a library for everything your team needs to get done to complete or ship a project.
 
-<table><thead><tr><th width="167.4609375"></th><th></th><th></th></tr></thead><tbody><tr><td>asdf</td><td>asdf</td><td>asdf</td></tr><tr><td></td><td></td><td>asdf</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="167.4609375"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>asdf</strong></td><td>asdf</td><td>asdf</td></tr><tr><td></td><td></td><td>asdf</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 **Test 123!**
 
